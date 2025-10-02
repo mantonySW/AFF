@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.cdnfonts.com/css/axiforma');
+@import url('https://fonts.cdnfonts.com/css/calibre');
+
+/* Custom font classes */
+.font-axiforma {
+  font-family: 'Axiforma', 'Inter', sans-serif;
+  font-weight: 600;
+}
+
+.font-calibre {
+  font-family: 'Calibre', 'Inter', sans-serif;
+  font-weight: 400;
+}
